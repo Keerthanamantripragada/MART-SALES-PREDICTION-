@@ -1,6 +1,6 @@
 # MART-SALES-PREDICTION
 **INTRODUCTION**:
-BigMartSales data have the data of stores of different types which includes variety of food items related to the grocery stores and supermarkets.Aim is to predict the total sales of the particular stores by analysing the data trends and using different machine learning models to improve the performance of the stores and for identifying where the stores are lagging
+BigMartSales data have the data of stores of different types which includes variety of food items related to the grocery stores and supermarkets.Aim is to predict the total sales of the particular stores by analysing the data trends and using different machine learning models to improve the performance of the stores and for identifying where the stores are lagging.
 
 
 **PROJECT INSIGHTS**: 
